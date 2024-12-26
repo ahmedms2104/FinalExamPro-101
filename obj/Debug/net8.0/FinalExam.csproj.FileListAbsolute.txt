@@ -1,0 +1,14 @@
+c:\Users\the_r\OneDrive\المستندات\سطح المكتب\FinalExam\bin\Debug\net8.0\FinalExam.exe
+c:\Users\the_r\OneDrive\المستندات\سطح المكتب\FinalExam\bin\Debug\net8.0\FinalExam.deps.json
+c:\Users\the_r\OneDrive\المستندات\سطح المكتب\FinalExam\bin\Debug\net8.0\FinalExam.runtimeconfig.json
+c:\Users\the_r\OneDrive\المستندات\سطح المكتب\FinalExam\bin\Debug\net8.0\FinalExam.dll
+c:\Users\the_r\OneDrive\المستندات\سطح المكتب\FinalExam\bin\Debug\net8.0\FinalExam.pdb
+c:\Users\the_r\OneDrive\المستندات\سطح المكتب\FinalExam\obj\Debug\net8.0\FinalExam.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\the_r\OneDrive\المستندات\سطح المكتب\FinalExam\obj\Debug\net8.0\FinalExam.AssemblyInfoInputs.cache
+c:\Users\the_r\OneDrive\المستندات\سطح المكتب\FinalExam\obj\Debug\net8.0\FinalExam.AssemblyInfo.cs
+c:\Users\the_r\OneDrive\المستندات\سطح المكتب\FinalExam\obj\Debug\net8.0\FinalExam.csproj.CoreCompileInputs.cache
+c:\Users\the_r\OneDrive\المستندات\سطح المكتب\FinalExam\obj\Debug\net8.0\FinalExam.dll
+c:\Users\the_r\OneDrive\المستندات\سطح المكتب\FinalExam\obj\Debug\net8.0\refint\FinalExam.dll
+c:\Users\the_r\OneDrive\المستندات\سطح المكتب\FinalExam\obj\Debug\net8.0\FinalExam.pdb
+c:\Users\the_r\OneDrive\المستندات\سطح المكتب\FinalExam\obj\Debug\net8.0\FinalExam.genruntimeconfig.cache
+c:\Users\the_r\OneDrive\المستندات\سطح المكتب\FinalExam\obj\Debug\net8.0\ref\FinalExam.dll
